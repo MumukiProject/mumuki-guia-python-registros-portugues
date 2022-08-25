@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: "['galletitas', 'dulce de leche', 'crema']"
-name: Hay un diccionario en mi diccionario
+name: Há um dicionário no meu dicionário
