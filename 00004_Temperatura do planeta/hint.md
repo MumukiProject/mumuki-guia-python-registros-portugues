@@ -1,3 +1,3 @@
-¡Prestá atención a los strings que devuelven los ejemplos! Sólo la parte correspondiente a cada planeta varía, como el `nombre` y la `temperatura_promedio`. Además, tenés que dejar espacios entre las palabras que rodean a `nombre` y `temperatura_promedio`.
+Preste atenção às strings que  retornarem dos exemplos! Apenas a parte correspondente a cada planeta varia, como o `nome` e a `temperatura_media`. Além disso, você deve deixar espaços entre as palavras ao redor do `nome` e da `temperatura_media`.
 
-También recordá que para concatenar un número a un string, antes debemos convertilo utilizando `str`. :wink:
+Lembre-se também que para concatenar um número a uma string, devemos primeiro transformá-lo usando `str`. :wink:

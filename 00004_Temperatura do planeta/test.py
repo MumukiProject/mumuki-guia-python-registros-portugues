@@ -1,15 +1,15 @@
 
   def test_temperatura_de_planeta_funciona_para_Mercurio(self):
-    self.assertEqual(temperatura_de_planeta(mercurio), "Mercurio tiene una temperatura promedio de 67 grados")
+    self.assertEqual(temperatura_do_planeta(mercurio), "Mercúrio tem uma temperatura média de 67 graus")
 
   def test_temperatura_de_planeta_funciona_para_Saturno(self):
-    self.assertEqual(temperatura_de_planeta(saturno), "Saturno tiene una temperatura promedio de -139 grados")
+    self.assertEqual(temperatura_do_planeta(saturno), "Saturno tem uma temperatura média de -139 graus")
 
   def test_temperatura_de_planeta_funciona_para_Venus(self):
-    self.assertEqual(temperatura_de_planeta(venus), "Venus tiene una temperatura promedio de 462 grados")
+    self.assertEqual(temperatura_do_planeta(venus), "Vênus tem uma temperatura média de 462 graus")
 
   def test_temperatura_de_planeta_funciona_para_Marte(self):
-    self.assertEqual(temperatura_de_planeta(marte), "Marte tiene una temperatura promedio de -63 grados")
+    self.assertEqual(temperatura_do_planeta(marte), "Marte tem uma temperatura média de -63 graus")
 
   def test_temperatura_de_planeta_funciona_para_cualquier_planeta(self):
-    self.assertEqual(temperatura_de_planeta({"nombre":"cualquier planeta", "temperatura_promedio":999}), "cualquier planeta tiene una temperatura promedio de 999 grados")
+    self.assertEqual(temperatura_do_planeta({"nome":"cualquier planeta", "temperatura_média":999}), "cualquier planeta tem uma temperatura média de 999 graus")

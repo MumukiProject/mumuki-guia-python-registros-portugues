@@ -8,7 +8,7 @@ Agora que adicionamos dicionários de planetas, vamos trabalhar um pouco com ele
 "Mercúrio tem uma temperatura média de 67 graus"
 ム temperatura_do_planeta(saturno)
 "Saturno tem uma temperatura média de -139 graus"
-ム temperatura_do_planeta(vênus)
+ム temperatura_do_planeta(venus)
 "Vênus tem uma temperatura média de 462 graus"
 ```
 
