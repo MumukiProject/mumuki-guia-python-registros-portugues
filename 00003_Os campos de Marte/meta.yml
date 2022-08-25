@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
-  value: listo()
-name: Los campos de Marte
+  value: pronto()
+name: Os campos de Marte
