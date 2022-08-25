@@ -1,1 +1,1 @@
-Durante la lección aprendiste cuál es la utilidad de esta estructura de datos llamada diccionario, cómo acceder a sus campos y modificarlos, y hasta viste que pueden _anidarse_ (es decir, que haya un diccionario dentro de otro). ¡Felicitaciones! :clap:
+Durante a aula você aprendeu qual a utilidade dessa estrutura de dados chamada dicionário, como acessar e modificar os campos, e ainda viu que eles podem  _abrigar_ (ou seja, ter um dicionário dentro de outro). Parabéns!  :clap:
