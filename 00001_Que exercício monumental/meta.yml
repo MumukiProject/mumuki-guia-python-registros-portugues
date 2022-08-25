@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
   value: coliseo
-name: Que ejercicio monumental
+name: Que exercício monumental
