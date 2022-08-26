@@ -6,7 +6,7 @@ Por exemplo, uma lista pode ser o campo de um dicionário. Veja estes dicionári
 ```python
 ム pudim_caseiro = { "ingredientes": ["ovos", "leite", "açúcar", "baunilha"], "tempo_de_cozimento": 50 }
 ム cheesecake = { "ingredientes": ["cream cheese", "framboesas"], "tempo_de_cozimento": 80 }
-ム lemon_pie = { "ingredientes": ["suco de limão", "amido de milho", "leite", "ovos"], "cook_time": 65 }
+ム lemon_pie = { "ingredientes": ["suco de limão", "amido de milho", "leite", "ovos"], "tempo_de_cozimento": 65 }
 ```
 
 
