@@ -2,7 +2,7 @@
   def setUp(self):
     self.pudim_caseiro = { "ingredientes": ["ovos", "leite", "açúcar", "baunilha"], "tempo_de_cozimento": 50 }
     self.cheesecake = { "ingredientes": ["cream cheese", "framboesas"], "tempo_de_cozimento": 80 }
-    self.lemon_pie = { "ingredientes": ["suco de limão", "amido de milho", "leite", "ovos"], "cook_time": 65 }
+    self.lemon_pie = { "ingredientes": ["suco de limão", "amido de milho", "leite", "ovos"], "tempo_de_cozimento": 65 }
     
   def test_el_flan_casero_es_mas_dificil_de_cocinar_que_el_cheesecake(self):
     self.assertEqual(mais_dificil_de_cozinhar(self.pudim_caseiro, self.cheesecake), self.pudim_caseiro)
