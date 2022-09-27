@@ -1,1 +1,1 @@
-Y también podríamos tener diccionarios que adentro tengan diccionarios que adentro tengan dic.... :flushed:
+E também poderíamos ter dicionários que dentro tenham dicionários que dentro tenham dicionários.... :flushed:

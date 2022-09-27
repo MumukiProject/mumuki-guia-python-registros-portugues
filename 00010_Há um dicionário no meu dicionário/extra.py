@@ -7,5 +7,5 @@ menu_do_dia = {
 menu_infantil = {
   "prato_principal": "pizza",
   "salada": ["lechuga", "tomate", "zanahoria"],
-  "sobremesa": { "ingredientes": ["galletitas", "dulce de leche", "crema"], "tempo_de_cozimento": 20 }
+  "sobremesa": { "ingredientes": ["biscoitos", "doce de leite", "creme"], "tempo_de_cozimento": 20 }
 }
