@@ -1,7 +1,7 @@
-¡Buenas habilidades de búsqueda! :mag_right::wink: 
+Boas habilidades de pesquisa! :mag_right::wink: 
 
-Los diccionarios, al igual que las listas, son una _estructura de datos_ porque nos permiten organizar información. Pero ¿en qué se diferencia un diccionario de una lista? :thinking:
+Os dicionários, da mesma forma que as listas, são uma _estrutura de dados_ porque permitem organizar informação. Mas qual a diferença entre um dicionário e uma lista? :thinking:
 
-En las listas podemos guardar muchos elementos de un mismo tipo que representen una misma cosa (por ejemplo todos números, o todos strings). No existen límites para las listas: pueden tener muchos elementos, ¡o ninguno!
+Nas listas podemos guardar muitos elementos de um mesmo tipo que representam a mesma coisa (por exemplo todos números, ou todas strings). Não existem limites para as listas: podem ter muitos elementos, ou nenhum!
 
-En un diccionario vamos a guardar información relacionada a una única cosa (por ejemplo **un** monumento o **una** persona), pero los tipos de los campos pueden cambiar. Por ejemplo, el nombre y la ubicación de un monumento son strings, pero su año de construcción es un número. 
+Em um dicionário vamos guardar informação relacionada a uma única coisa (por exemplo **um** monumento ou **uma** pessoa), mas os tipos dos campos podem mudar. Por exemplo, o nome e a localização de um monumento são strings, mas o ano de construção é um número.
