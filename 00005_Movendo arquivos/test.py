@@ -4,7 +4,7 @@
     mover_arquivo(archivo, "/home/miarchivo.doc")
     self.assertEqual(archivo["percurso"], "/home/miarchivo.doc")
 
-  def test_mover_arquivo_mantém_a_rota_em_um_arquivo_se_passa_a_mesma_rota.(self):
+  def test_mover_arquivo_mantém_a_rota_em_um_arquivo_se_passa_a_mesma_rota(self):
     archivo = {"percurso":"/usr/miarchivo.doc", "criacao":"15/02/2019"}
     mover_arquivo(archivo, "/usr/miarchivo.doc")
     self.assertEqual(archivo["percurso"], "/usr/miarchivo.doc")
