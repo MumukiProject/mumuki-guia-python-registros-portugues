@@ -1,6 +1,6 @@
 
   def test_cristo_redentor_se_chama_Cristo_Redentor(self):
-    self.assertEqual(cristo_redentor["nome"].lower(), "Cristo Redentor")
+    self.assertEqual(cristo_redentor["nome"].lower(), "cristo redentor")
 
   def test_cristo_redentor_é_do_Rio_de_Janeiro(self):
     self.assertEqual(cristo_redentor["localizacao"], "Rio de Janeiro, Brasil")
