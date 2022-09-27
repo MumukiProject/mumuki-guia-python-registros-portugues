@@ -9,7 +9,7 @@
     self.assertEqual(cristo_redentor["ano_da_construcao"], 1922)
 
   def test_elevador_lacerda_se_chama_Elevador_Lacerda(self):
-    self.assertEqual(elevador_lacerda["nome"].lower(), "Elevador Lacerda")
+    self.assertEqual(elevador_lacerda["nome"].lower(), "elevador lacerda")
 
   def test_elevador_lacerda_é_de_Salvador_Brasil(self):
     self.assertEqual(elevador_lacerda["localizacao"], "Salvador, Brasil")
