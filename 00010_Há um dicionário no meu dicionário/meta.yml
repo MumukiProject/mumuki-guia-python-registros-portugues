@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: '["biscoitos", "doce de leite", "creme"]'
+  output: ''
 name: Há um dicionário no meu dicionário
