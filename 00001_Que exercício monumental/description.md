@@ -1,6 +1,6 @@
-Uma historiadora está compilando informações sobre diferentes monumentos no mundo inteiro :earth_americas:. A princípio, ele só queria saber o nome, a localização e o ano de construção de cada monumento. :moyai:
+Uma historiadora está compilando informações sobre diferentes monumentos no mundo inteiro :earth_americas:. A princípio, ela só queria saber o nome, a localização e o ano de construção de cada monumento. :moyai:
 
-Para isso ela armazenou cada dado em uma variável:
+Para isso, ela armazenou cada dado em uma variável:
 
 ``` python
 nome_estatua_da_liberdade = "Estátua da Liberdade"
@@ -11,7 +11,7 @@ localizacao_cristo_redentor = "Rio De Janeiro"
 ano_da_construcao_cristo_redentor = "1931"
 ```
 
-Foi quando ele percebeu que não era conveniente :unamused:: enquanto as informações entre as variáveis ​​estavam relacionadas, ele as armazenava separadamente. Então pensou: não há como representar de forma agrupada as diferentes características ou propriedades de uma mesma coisa?
+Foi quando ela percebeu que não era conveniente :unamused:: enquanto as informações entre as variáveis estavam relacionadas, ele as armazenava separadamente. Então pensou: não há como representar de forma agrupada as diferentes características ou propriedades de uma mesma coisa?
 
 
 > Depois de fazer algumas pesquisas, ele encontrou uma maneira melhor de salvar as informações dos monumentos. Você pode ver digitando no console:
