@@ -2,10 +2,10 @@ No exercício anterior modificamos o caminho do dicionário, mas não usamos sua
 
 
 ```python
-ム e_do_milenio_passado({ "percurso": "D:\fotonascimento.jpg", "criacao": "14/09/1989" })
+ム e_do_milenio_passado({ "caminho": "D:\fotonascimento.jpg", "criacao": "14/09/1989" })
 True
 
-ム e_do_milenio_passado({ "percurso": "D:\fotocasamento.jpg", "criacao": "25/09/2017" })
+ム e_do_milenio_passado({ "caminho": "D:\fotocasamento.jpg", "criacao": "25/09/2017" })
 False
 ```
 
