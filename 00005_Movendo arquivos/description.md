@@ -16,7 +16,7 @@ Agora imagine que temos um dicionário para representar um arquivo, do qual conh
 ム mover_arquivo(leia_me, "C:\documentos\leia_me.txt") }
 ```
 
-Em seguida o dicionário `leia-me` terá seu caminho modificado:
+Em seguida o dicionário `leia_me` terá seu caminho modificado:
 
 ```python
 ム leia_me
