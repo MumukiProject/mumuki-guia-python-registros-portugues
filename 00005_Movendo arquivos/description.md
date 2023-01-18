@@ -6,21 +6,22 @@ A sintaxe para modificar os campos do dicionário é muito semelhante ao que faz
 ```python
 ム saturno["temperatura_media"] = -140
 ```
-Agora imagine que temos um dicionário para representar um arquivo, do qual conhecemos seu caminho (onde está armazenado) e a data da criação. Se quisermos mudar o percurso, podemos fazer o seguinte...
+
+Agora imagine que temos um dicionário para representar um arquivo, do qual conhecemos seu caminho (onde está armazenado) e a data da criação. Se quisermos mudar o caminho, podemos fazer o seguinte...
 
 ```python
 ム leia_me
-{ "percurso": "C:\leia_me.txt", "criacao": "23/09/2004" }
+{ "caminho": "C:\leia_me.txt", "criacao": "23/09/2004" }
 
 ム mover_arquivo(leia_me, "C:\documentos\leia_me.txt") }
 ```
 
-Em seguida o dicionário `leia_me` terá modificada seu percurso:
+Em seguida o dicionário `leia-me` terá seu caminho modificado:
 
 ```python
 ム leia_me
-{ "percurso": "C:\documentos\leia_me.txt", "criacao": "23/09/2004" }
+{ "caminho": "C:\documentos\leia_me.txt", "criacao": "23/09/2004" }
 ```
 
-> É a sua vez! Defina o procedimento `mover_arquivo`, que utilize um dicionário e um novo caminho e modifique o arquivo com o novo percurso.
+> É a sua vez! Defina o procedimento `mover_arquivo`, que utilize um dicionário e um novo caminho e modifique o arquivo com o novo caminho.
 
