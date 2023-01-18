@@ -18,7 +18,7 @@ Agora imagine que temos um dicionário para representar um arquivo, do qual conh
 Em seguida o dicionário `leia_me` terá modificada seu percurso:
 
 ```python
-ム leeme
+ム leia_me
 { "percurso": "C:\documentos\leia_me.txt", "criacao": "23/09/2004" }
 ```
 
