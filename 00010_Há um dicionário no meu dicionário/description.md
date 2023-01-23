@@ -13,5 +13,4 @@ menu_do_dia = {
 }
 ```
 
-> Conheça os `ingredientes` da `sobremesa` do `menu_infantil`. É um dicionário dentro de um dicionário, então vamos ter que acessar primeiro o campo `sobremesa` e depois o campo `ingredientes`. Se você não consegue descobrir como, você pode olhar para a pista. :mag:
-
+> Conheça os `ingredientes` da `sobremesa` do `menu_infantil`. É um dicionário dentro de um dicionário, então vamos ter que acessar primeiro o campo `dessert` e depois o campo `ingredientes`. Se você não consegue descobrir como, você pode olhar na dica. :mag:
