@@ -13,7 +13,7 @@ Por exemplo, uma lista pode ser o campo de um dicionário. Veja estes dicionári
 > Defina a função `mais_dificil_de_cozinhar`, que utilize dois dicionários de sobremesas como argumento e retorne aquele com mais ingredientes dos dois:
 
 > ``` python
-ム mais_dificil_de_cozinhar (pudim_caseiro, cheesecake)
+ム mais_dificil_de_cozinhar(pudim_caseiro, cheesecake)
 { "ingredientes": ["ovos", "leite", "açúcar", "baunilha"], "tempo_de_cozimento": 50 }
 ```
 
