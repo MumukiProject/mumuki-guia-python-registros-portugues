@@ -17,11 +17,11 @@
   def test_o_pudim_caseiro_é_mais_difícil_de_cozinhar_do_que_o_cheesecake_extra_doce_com_argumentos_trocados(self):
     self.assertEqual(mais_dificil_de_cozinhar(cheesecake_extra_doce, pudim_caseiro), pudim_caseiro, "mais_dificil_de_cozinhar(cheesecake_extra_doce, pudim_caseiro) deve retornar pudim_caseiro (porque tem mais um ingrediente)")
 
-  def test_o_cheesecacke_extra_doce_é_mais_difícil_de_cozinhar_do_que_o_cheesecake(self):
-    self.assertEqual(mais_dificil_de_cozinhar(cheesecake, cheesecacke_extra_doce), cheesecacke_extra_doce, "mais_dificil_de_cozinhar(cheesecake, cheesecacke_extra_doce) deve retornar cheesecacke_extra_doce (porque tem mais um ingrediente)")
+  def test_o_cheesecake_extra_doce_é_mais_difícil_de_cozinhar_do_que_o_cheesecake(self):
+    self.assertEqual(mais_dificil_de_cozinhar(cheesecake, cheesecake_extra_doce), cheesecake_extra_doce, "mais_dificil_de_cozinhar(cheesecake, cheesecake_extra_doce) deve retornar cheesecake_extra_doce (porque tem mais um ingrediente)")
 
-  def test_o_cheesecacke_extra_doce_é_mais_difícil_de_cozinhar_do_que_o_cheesecake_com_argumentos_trocados(self):
-    self.assertEqual(mais_dificil_de_cozinhar(cheesecacke_extra_doce, cheesecake), cheesecacke_extra_doce, "mais_dificil_de_cozinhar(cheesecacke_extra_doce, cheesecake) deve retornar cheesecacke_extra_doce (porque tem mais um ingrediente)")
+  def test_o_cheesecake_extra_doce_é_mais_difícil_de_cozinhar_do_que_o_cheesecake_com_argumentos_trocados(self):
+    self.assertEqual(mais_dificil_de_cozinhar(cheesecake_extra_doce, cheesecake), cheesecake_extra_doce, "mais_dificil_de_cozinhar(cheesecake_extra_doce, cheesecake) deve retornar cheesecake_extra_doce (porque tem mais um ingrediente)")
 
   def test_se_duas_sobremesas_são_igualmente_difíceis_de_cozinhar_retorne_qualquer_uma_das_duas(self):
     mas_dificil = mais_dificil_de_cozinhar(pudim_caseiro, lemon_pie)
