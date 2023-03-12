@@ -4,22 +4,21 @@ A sintaxe para modificar os campos do dicionário é muito semelhante ao que faz
 
 
 ```python
-ム saturno["temperatura_media"] = -140
+ムsaturno["temperatura_media"] = -140
 ```
 
 Agora imagine que temos um dicionário para representar um arquivo, do qual conhecemos seu caminho (onde está armazenado) e a data da criação. Se quisermos mudar o caminho, podemos fazer o seguinte...
 
 ```python
-ム leia_me
+ムleia_me
 { "caminho": "C:\leia_me.txt", "criacao": "23/09/2004" }
-
-ム mover_arquivo(leia_me, "C:\documentos\leia_me.txt") }
+ムmover_arquivo(leia_me, "C:\documentos\leia_me.txt")
 ```
 
 Em seguida o dicionário `leia_me` terá seu caminho modificado:
 
 ```python
-ム leia_me
+ムleia_me
 { "caminho": "C:\documentos\leia_me.txt", "criacao": "23/09/2004" }
 ```
 
