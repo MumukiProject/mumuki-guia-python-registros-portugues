@@ -9,7 +9,7 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices: []
-goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+goal:
   kind: last_query_outputs
   output: "['biscoitos', 'doce de leite', 'creme']"
 name: Há um dicionário no meu dicionário
